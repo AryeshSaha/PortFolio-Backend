@@ -1,0 +1,7 @@
+models:
+User Model : Aryesh's name number username password email image socials
+Project Model : Project Names, Techs, Descs, Images, Links, authors
+
+routes:
+User : RUD ops on both models
+
